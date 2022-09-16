@@ -1,2 +1,5 @@
 devel
 build
+__pycache__
+*.h5
+*.weights

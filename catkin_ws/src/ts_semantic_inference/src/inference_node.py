@@ -2,10 +2,10 @@
 
 import rospy
 
+def handle_semantic_inference(req):
+    print("Do the thing")
+
 if __name__ == '__main__':
     rospy.init_node('inference_node')
-    
-    rate = rospy.Rate(10)
-    while not rospy.is_shutdown():
-        rospy.loginfo("Hello World!")
-        rate.sleep()
+    s = rospy.Service('semantic_inference', SemanticInference, handle_semantic_inference)
+    rospy.spin()  

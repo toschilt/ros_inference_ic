@@ -1,0 +1,723 @@
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00427.jpg 27,10,77,583,0 116,29,167,552,0 982,15,1035,527,0 204,14,259,496,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00453.jpg 387,24,430,436,0 901,8,944,402,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00994.jpg 268,8,342,551,0 401,7,441,518,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00875.jpg 1176,4,1230,586,0 910,0,959,433,0 152,0,201,500,0 325,0,365,434,0 858,2,886,415,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01023.jpg 993,9,1036,534,0 897,13,938,460,0 76,12,122,575,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00812.jpg 58,3,124,610,0 1108,0,1163,533,0 173,0,228,539,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00871.jpg 76,0,124,515,0 1110,0,1166,519,0 1030,4,1075,529,0 223,0,268,438,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00882.jpg 1070,0,1118,500,0 212,0,257,468,0 940,6,989,425,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00563.jpg 1080,21,1142,564,0 120,29,172,530,0 927,21,976,500,0 872,20,917,465,0 179,26,230,490,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00788.jpg 130,23,192,512,0 920,18,981,462,0 1057,17,1118,498,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00444.jpg 1164,30,1218,619,0 32,24,88,596,0 222,17,271,510,0 954,27,1013,458,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00620.jpg 21,23,82,560,0 1117,22,1176,514,0 872,15,913,401,0 361,5,395,438,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00526.jpg 957,25,1011,526,0 86,51,138,534,0 869,40,916,456,0 187,64,233,482,0 308,33,347,440,0 355,46,393,429,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00442.jpg 1068,30,1122,583,0 93,24,149,550,0 249,20,298,478,0 902,19,961,435,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00364.jpg 73,16,154,632,0 253,16,297,539,0 1084,21,1131,509,0 333,14,372,501,0 1029,20,1078,494,0 388,23,426,476,0 969,13,1018,462,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00722.jpg 0,10,71,677,0 154,22,230,564,0 1059,13,1114,471,0 250,19,305,534,0 967,31,1010,444,0 352,5,408,447,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00723.jpg 148,57,223,599,0 1089,36,1144,494,0 250,21,305,553,0 986,33,1029,489,0 354,24,410,466,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00540.jpg 976,32,1024,488,0 915,18,957,450,0 109,17,157,556,0 246,42,294,479,0 319,36,357,441,0 861,52,899,432,0 385,40,414,430,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00559.jpg 959,22,1011,495,0 1145,20,1202,552,0 1053,27,1109,536,0 43,17,101,530,0 205,19,257,476,0 864,22,912,443,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01049.jpg 994,0,1037,558,0 909,5,947,484,0 157,17,197,500,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00942.jpg 1169,5,1221,526,0 1065,0,1113,525,0 849,2,888,432,0 238,0,275,451,0 273,3,317,445,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00962.jpg 1164,15,1216,627,0 0,27,35,594,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00397.jpg 0,41,54,620,0 98,35,148,561,0 192,29,235,512,0 899,21,947,494,0 826,32,869,446,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00592.jpg 1169,32,1230,610,0 1011,31,1064,534,0 96,41,152,517,0 178,40,226,494,0 234,20,284,440,0 411,6,456,379,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00699.jpg 136,22,189,568,0 993,20,1048,513,0 947,10,987,459,0 287,23,331,483,0 866,20,904,424,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00913.jpg 1036,9,1076,453,0 264,5,307,486,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00376.jpg 75,42,133,637,0 220,35,262,537,0 1024,30,1072,512,0 969,34,1015,486,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00574.jpg 1172,23,1224,600,0 1088,25,1152,539,0 59,17,107,571,0 165,19,220,505,0 992,21,1042,499,0 844,21,886,423,0 249,19,292,465,0 303,15,347,440,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00921.jpg 78,6,126,624,0 239,6,275,477,0 154,6,197,508,0 989,3,1032,460,0 946,7,982,445,0 277,11,313,462,0 326,12,362,446,0 805,8,839,388,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00570.jpg 1142,27,1198,611,0 1018,25,1070,532,0 967,25,1019,483,0 160,56,208,539,0 903,26,952,463,0 812,20,854,417,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00557.jpg 12,21,73,571,0 1120,33,1185,601,0 904,32,956,495,0 1058,37,1114,560,0 982,30,1038,539,0 107,20,165,500,0 824,21,872,469,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00437.jpg 84,40,154,569,0 1085,21,1152,544,0 938,26,993,495,0 174,35,222,508,0 288,32,337,442,0 846,31,893,420,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00877.jpg 943,5,991,438,0 86,9,139,533,0 298,2,338,451,0 874,4,910,416,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00802.jpg 985,12,1054,569,0 186,8,253,484,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00429.jpg 0,31,44,604,0 110,29,161,552,0 1060,21,1114,551,0 196,23,250,506,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00972.jpg 1030,5,1103,688,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00738.jpg 1025,6,1072,466,0 949,13,993,433,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00470.jpg 127,42,183,604,0 1064,26,1119,517,0 256,35,315,537,0 319,27,367,489,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00445.jpg 1187,37,1241,627,0 202,8,251,501,0 974,39,1033,456,0 424,27,467,406,0 803,18,846,388,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00740.jpg 1066,9,1114,511,0 972,10,1017,479,0 38,79,110,646,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00660.jpg 65,16,118,534,0 1164,29,1230,665,0 109,20,160,511,0 1073,29,1133,601,0 833,20,877,438,0 253,15,297,457,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00514.jpg 1227,54,1280,655,0 194,34,234,486,0 904,55,949,500,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00739.jpg 1053,11,1101,470,0 971,14,1015,434,0 95,45,168,612,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00404.jpg 1083,25,1138,614,0 896,33,948,504,0 65,38,114,551,0 117,34,161,530,0 810,43,871,481,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00311.jpg 1112,14,1179,640,0 35,26,93,553,0 139,31,188,508,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00815.jpg 60,5,128,569,0 1065,0,1129,514,0 146,7,192,550,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00494.jpg 0,42,60,589,0 1164,18,1220,578,0 1035,29,1088,558,0 158,32,209,505,0 242,35,287,461,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00511.jpg 1064,27,1118,559,0 56,25,106,547,0 214,24,253,461,0 844,25,888,469,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01027.jpg 1125,14,1192,637,0 1059,18,1104,575,0 976,16,1021,525,0 699,12,732,415,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00616.jpg 165,39,216,509,0 976,39,1025,461,0 823,21,859,397,0 388,35,422,433,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00520.jpg 51,46,108,550,0 1108,30,1167,578,0 854,22,905,475,0 201,27,253,485,0 789,15,837,432,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00983.jpg 1120,9,1178,607,0 140,8,181,562,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00984.jpg 1157,11,1220,661,0 109,6,150,612,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00792.jpg 997,12,1062,504,0 1192,9,1269,566,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00999.jpg 150,14,223,625,0 351,10,397,551,0 1179,0,1225,423,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00421.jpg 104,20,150,524,0 128,16,172,523,0 878,27,935,530,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00733.jpg 1151,11,1213,512,0 107,9,222,559,0 269,14,317,528,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00398.jpg 55,29,105,574,0 154,36,206,519,0 924,28,971,512,0 835,39,878,453,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00846.jpg 930,0,985,541,0 1084,0,1142,623,0 173,0,215,450,0 729,0,774,443,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00550.jpg 1074,44,1127,578,0 46,48,91,567,0 941,25,989,508,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00581.jpg 950,26,1006,489,0 102,22,152,530,0 204,22,249,474,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00855.jpg 76,2,121,501,0 141,32,184,489,0 883,0,932,536,0 982,5,1031,565,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00683.jpg 282,20,336,506,0 380,20,421,464,0 1172,0,1219,559,0 1103,14,1144,504,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00675.jpg 1108,23,1175,645,0 87,17,137,517,0 960,24,1012,583,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00629.jpg 1010,18,1058,442,0 249,35,292,522,0 316,19,366,473,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00443.jpg 1099,25,1153,578,0 58,35,115,561,0 231,19,281,478,0 907,12,966,429,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00513.jpg 1148,76,1202,608,0 14,36,64,558,0 202,37,242,473,0 874,40,918,484,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00666.jpg 926,38,977,513,0 140,21,184,507,0 54,23,107,556,0 826,28,866,469,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00533.jpg 1207,53,1267,647,0 1001,42,1065,523,0 32,46,89,563,0 849,51,891,440,0 237,44,276,486,0 313,73,352,456,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00458.jpg 351,28,394,492,0 962,25,1005,457,0 402,30,435,471,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00889.jpg 0,15,60,596,0 1120,12,1166,515,0 1049,4,1100,466,0 163,7,209,570,0 306,3,347,454,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00538.jpg 940,36,982,473,0 882,21,924,453,0 139,55,187,546,0 252,50,300,487,0 321,42,359,447,0 832,47,870,427,0 388,35,417,425,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00981.jpg 1037,6,1097,592,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00554.jpg 1081,31,1136,582,0 118,22,179,526,0 1008,22,1056,523,0 853,26,904,455,0 948,20,1005,514,0 202,20,260,480,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00821.jpg 1136,0,1193,567,0 1028,3,1079,482,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00728.jpg 88,13,181,611,0 1137,24,1193,551,0 1068,20,1114,454,0 1000,23,1051,462,0 300,13,356,479,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00626.jpg 966,7,1008,392,0 304,20,338,477,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00547.jpg 1219,50,1278,603,0 1061,67,1114,545,0 47,45,98,585,0 198,53,243,494,0 959,55,998,494,0 304,42,341,468,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00719.jpg 1076,35,1118,521,0 1129,37,1180,572,0 38,6,134,622,0 200,15,252,536,0 932,25,984,440,0 248,15,303,509,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01015.jpg 1180,10,1232,589,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00833.jpg 55,0,123,656,0 141,9,200,618,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00577.jpg 68,21,123,550,0 1095,28,1153,569,0 893,18,934,461,0 185,20,228,495,0 263,27,306,452,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00752.jpg 15,22,85,593,0 130,20,182,533,0 1138,11,1198,550,0 784,49,816,438,0 302,22,336,414,0 704,23,743,396,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00528.jpg 1019,34,1073,562,0 23,37,76,551,0 902,21,949,470,0 147,34,204,492,0 282,51,322,458,0 347,51,385,434,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00674.jpg 986,29,1053,633,0 75,19,126,506,0 920,32,971,568,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00491.jpg 83,32,151,536,0 1044,37,1100,548,0 953,23,1006,521,0 217,24,269,472,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00652.jpg 227,33,270,454,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00535.jpg 1074,36,1138,544,0 867,71,910,460,0 206,34,246,498,0 291,64,329,448,0 797,47,835,427,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00305.jpg 899,25,966,544,0 1012,25,1072,555,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00519.jpg 88,23,144,528,0 1059,47,1117,583,0 822,0,874,452,0 779,7,827,423,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00834.jpg 41,0,102,684,0 127,0,190,625,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00726.jpg 32,35,138,651,0 167,11,245,583,0 1078,26,1121,502,0 1014,0,1058,440,0 971,26,1013,425,0 341,18,397,460,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00507.jpg 1051,42,1113,612,0 933,12,975,523,0 33,42,81,566,0 161,26,201,506,0 264,31,303,445,0 786,43,821,456,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00945.jpg 1164,4,1208,570,0 881,3,919,449,0 184,7,222,486,0 226,9,270,475,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00754.jpg 80,28,133,557,0 842,34,878,456,0 292,26,327,418,0 747,25,786,398,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00419.jpg 120,14,166,517,0 146,12,191,519,0 818,3,875,501,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00417.jpg 1117,22,1211,694,0 116,5,162,509,0 151,8,195,515,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00532.jpg 1165,31,1225,625,0 984,20,1031,501,0 40,53,98,550,0 837,46,879,434,0 240,30,280,472,0 316,58,354,441,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00893.jpg 1171,1,1232,518,0 10,20,57,676,0 993,7,1036,475,0 1049,7,1092,478,0 223,11,267,501,0 277,4,316,484,0 821,8,853,380,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00543.jpg 1069,31,1128,512,0 976,42,1018,474,0 177,39,226,510,0 283,45,321,451,0 906,30,944,431,0 361,35,390,425,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00684.jpg 242,20,295,529,0 342,15,383,473,0 1124,24,1173,524,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01022.jpg 37,14,87,605,0 977,8,1020,533,0 893,12,933,459,0 109,13,158,576,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00377.jpg 171,29,222,551,0 1037,42,1086,524,0 979,37,1025,489,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00963.jpg 1225,14,1277,637,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00410.jpg 1046,14,1110,623,0 876,17,937,524,0 0,80,49,592,0 112,31,158,515,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00530.jpg 1082,16,1136,577,0 937,25,985,473,0 103,41,160,498,0 814,29,856,418,0 260,50,300,457,0 320,40,358,423,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00482.jpg 134,25,185,536,0 1021,18,1082,528,0 218,26,270,468,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00814.jpg 89,0,157,564,0 1041,0,1104,515,0 167,35,213,534,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00912.jpg 1019,10,1059,454,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00531.jpg 1131,18,1191,612,0 966,26,1014,491,0 59,52,116,539,0 821,37,863,426,0 253,59,292,466,0 320,59,358,442,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00810.jpg 131,0,198,543,0 1163,0,1239,561,0 1070,1,1119,496,0 227,0,282,494,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01033.jpg 973,15,1021,524,0 885,15,926,465,0 853,8,888,448,0 84,11,124,500,0 717,6,750,414,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00656.jpg 171,93,215,514,0 804,54,842,450,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00725.jpg 97,27,203,643,0 1188,6,1243,516,0 215,20,282,580,0 1050,26,1093,502,0 986,20,1030,460,0 948,32,990,431,0 344,33,400,475,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00393.jpg 1164,38,1230,633,0 120,23,179,555,0 197,42,247,506,0 265,21,308,481,0 852,26,899,462,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00523.jpg 892,26,943,478,0 145,36,198,495,0 827,20,875,436,0 240,28,286,445,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01000.jpg 5,8,78,701,0 246,10,293,602,0 1181,0,1228,471,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00461.jpg 304,25,347,516,0 1019,22,1062,475,0 365,46,398,487,0 971,20,1012,475,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00601.jpg 0,45,48,571,0 1218,31,1278,588,0 1014,34,1062,517,0 976,30,1022,498,0 110,29,156,529,0 234,22,286,476,0 903,26,949,453,0 358,28,403,397,0 782,11,822,371,0 736,11,761,350,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00985.jpg 78,0,119,588,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00708.jpg 40,31,94,595,0 1020,29,1061,484,0 191,33,239,501,0 934,19,977,476,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00462.jpg 288,30,331,521,0 1031,15,1074,468,0 350,44,383,485,0 982,15,1023,470,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00301.jpg 823,14,890,501,0 915,12,975,510,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01013.jpg 1107,9,1158,574,0 73,4,124,622,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01005.jpg 1139,21,1185,537,0 66,13,116,655,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00573.jpg 1136,24,1189,582,0 1064,26,1128,515,0 81,26,129,558,0 174,19,229,505,0 965,31,1015,495,0 840,21,882,422,0 259,16,303,462,0 313,17,357,442,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00614.jpg 210,22,255,492,0 941,14,985,435,0 811,13,846,390,0 402,14,435,412,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00433.jpg 71,28,125,561,0 208,31,259,507,0 1076,0,1142,530,0 996,3,1063,476,0 888,6,943,459,0 283,16,331,473,0 353,20,393,409,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00973.jpg 1069,13,1154,714,0 74,17,110,528,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00766.jpg 190,10,237,484,0 402,31,446,396,0 236,14,280,483,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00361.jpg 196,29,253,583,0 1168,29,1224,558,0 319,22,364,505,0 1014,32,1061,478,0 375,21,414,484,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00741.jpg 1092,0,1140,501,0 982,0,1027,446,0 924,16,971,427,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00349.jpg 30,33,94,632,0 187,27,233,582,0 228,32,275,555,0 1011,12,1067,508,0 378,34,423,467,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00745.jpg 1210,5,1269,567,0 1033,21,1086,501,0 955,14,1003,454,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00729.jpg 72,22,165,621,0 1174,30,1230,557,0 1089,15,1136,462,0 1021,14,1078,464,0 295,17,351,484,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01014.jpg 1150,7,1202,586,0 21,22,71,640,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00805.jpg 179,0,245,508,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00388.jpg 1058,31,1115,536,0 1004,17,1053,528,0 79,30,134,585,0 806,20,854,445,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00603.jpg 1084,28,1132,535,0 1035,20,1081,501,0 41,16,94,572,0 190,48,242,501,0 932,9,977,436,0 342,29,387,411,0 795,10,835,370,0 748,16,772,355,0 449,18,479,381,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00630.jpg 1034,16,1082,447,0 227,16,270,542,0 311,24,362,478,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00954.jpg 1065,5,1118,551,0 1026,11,1073,537,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00394.jpg 1212,36,1277,631,0 104,32,163,564,0 182,48,231,512,0 253,24,296,484,0 862,18,910,465,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00542.jpg 1040,30,1088,511,0 949,46,991,478,0 33,37,81,576,0 199,34,248,505,0 299,44,337,450,0 890,31,928,433,0 372,46,401,436,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00423.jpg 65,25,110,528,0 105,18,149,525,0 944,25,1001,555,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00572.jpg 1098,25,1151,567,0 1043,20,1095,501,0 112,33,160,548,0 956,21,1005,486,0 829,21,871,422,0 280,25,317,472,0 197,16,249,490,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00500.jpg 84,27,142,549,0 1090,46,1151,605,0 989,48,1040,536,0 893,44,941,505,0 832,36,868,455,0 162,37,206,519,0 336,33,375,423,0 744,14,779,427,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00544.jpg 1105,30,1163,536,0 990,21,1043,499,0 148,33,198,550,0 259,34,304,474,0 919,22,957,461,0 342,28,379,455,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00901.jpg 1230,0,1278,551,0 1134,5,1187,513,0 1002,8,1048,462,0 19,28,72,594,0 204,7,248,556,0 861,6,896,382,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00657.jpg 132,30,185,494,0 811,31,849,427,0 272,12,316,436,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00322.jpg 44,26,89,558,0 123,26,166,535,0 192,31,231,506,0 981,23,1060,554,0 259,27,304,466,0 324,22,357,448,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00696.jpg 1150,18,1200,536,0 66,22,115,593,0 1060,14,1109,523,0 231,29,285,511,0 915,14,963,457,0 324,12,363,436,0 820,22,858,395,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00890.jpg 1159,15,1205,518,0 1080,0,1131,458,0 125,14,171,577,0 294,3,336,455,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00336.jpg 140,19,195,532,0 1077,25,1137,551,0 214,23,263,496,0 963,23,1021,516,0 288,23,329,477,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00687.jpg 130,24,187,579,0 270,28,310,495,0 1020,26,1078,480,0 872,16,920,412,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00631.jpg 1077,0,1125,428,0 194,7,237,533,0 290,10,341,465,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00977.jpg 878,15,923,528,0 27,9,72,557,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00845.jpg 887,3,941,481,0 1018,6,1067,544,0 174,0,216,432,0 701,0,745,409,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00676.jpg 1131,26,1198,666,0 99,15,149,528,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00922.jpg 56,12,104,630,0 228,5,264,476,0 143,8,185,510,0 1017,0,1060,456,0 968,2,1004,440,0 269,11,305,462,0 311,10,350,443,0 817,5,852,385,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01029.jpg 99,26,142,523,0 1138,17,1192,596,0 1042,22,1086,561,0 707,6,740,397,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00734.jpg 1173,12,1235,513,0 66,13,191,586,0 244,13,292,547,0 964,25,993,418,0 910,20,944,397,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00865.jpg 129,4,176,513,0 1188,5,1241,562,0 228,5,279,461,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00941.jpg 1113,8,1164,528,0 1026,7,1074,545,0 839,8,877,438,0 266,5,303,459,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00854.jpg 84,0,126,489,0 136,14,179,471,0 837,0,885,519,0 921,6,969,538,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00980.jpg 1000,19,1057,584,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00930.jpg 1229,8,1275,575,0 62,14,107,562,0 209,19,248,485,0 260,4,299,462,0 891,4,926,423,0 373,9,407,400,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00318.jpg 44,30,90,576,0 88,30,132,571,0 162,30,207,525,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00431.jpg 49,28,99,591,0 1154,22,1208,604,0 154,19,208,536,0 252,9,303,484,0 373,34,413,423,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00685.jpg 208,25,261,555,0 336,26,377,484,0 1136,26,1186,549,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00702.jpg 2,26,81,644,0 1114,39,1169,553,0 1058,31,1099,500,0 231,30,275,518,0 916,35,954,449,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00791.jpg 15,19,82,545,0 978,4,1043,495,0 1170,20,1246,559,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00363.jpg 146,38,204,610,0 287,27,331,537,0 1051,27,1098,507,0 357,37,396,499,0 408,20,446,473,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00957.jpg 1183,8,1247,602,0 1141,12,1187,585,0 997,12,1050,534,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00387.jpg 22,25,72,601,0 1188,15,1242,574,0 1015,33,1073,516,0 118,29,173,557,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00313.jpg 86,40,135,537,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01035.jpg 1054,5,1116,531,0 938,8,987,505,0 882,11,921,482,0 811,20,849,453,0 34,14,79,548,0 733,2,766,430,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00862.jpg 25,0,69,544,0 1180,17,1233,645,0 184,6,231,478,0 256,6,297,451,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00390.jpg 1126,32,1184,577,0 1053,36,1102,547,0 203,32,262,516,0 823,22,871,447,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00484.jpg 82,29,132,556,0 1081,20,1142,566,0 177,20,229,489,0 1021,30,1078,529,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00634.jpg 1214,10,1263,469,0 145,0,199,590,0 258,0,309,506,0 342,0,392,490,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00414.jpg 965,30,1040,582,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00704.jpg 1172,30,1228,602,0 1119,25,1160,528,0 203,30,246,530,0 943,23,982,447,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00598.jpg 20,23,73,557,0 121,18,171,508,0 1048,20,1108,508,0 196,21,242,484,0 389,15,434,368,0 750,2,810,362,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00932.jpg 139,7,178,511,0 219,3,258,461,0 912,0,947,422,0 353,0,386,385,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00549.jpg 1059,0,1112,534,0 77,15,122,505,0 925,15,973,461,0 186,0,231,423,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00720.jpg 1130,24,1175,519,0 16,0,112,605,0 190,0,242,519,0 973,10,1026,425,0 248,0,303,473,0 885,20,928,408,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01050.jpg 1019,5,1068,591,0 920,8,959,506,0 130,3,177,508,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00420.jpg 117,22,163,526,0 144,14,188,522,0 844,24,901,522,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00407.jpg 955,35,1007,545,0 7,42,61,564,0 839,39,900,489,0 103,28,151,530,0 179,13,225,460,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00706.jpg 125,39,179,562,0 975,29,1016,459,0 268,38,312,489,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00539.jpg 960,19,1009,474,0 901,7,943,439,0 129,43,177,534,0 249,36,297,472,0 325,24,364,429,0 845,43,883,423,0 390,18,419,408,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00564.jpg 1119,36,1187,625,0 90,25,142,567,0 947,37,1003,549,0 891,31,936,507,0 157,26,208,523,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00667.jpg 959,28,1010,503,0 109,14,153,500,0 9,13,62,556,0 833,29,874,470,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00776.jpg 334,29,380,411,0 796,4,838,395,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00831.jpg 141,0,200,605,0 198,6,257,560,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00753.jpg 99,23,151,540,0 806,64,838,452,0 299,24,334,416,0 717,25,755,398,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00446.jpg 183,14,232,506,0 992,17,1051,456,0 419,27,463,406,0 806,20,849,390,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00436.jpg 111,20,162,550,0 1191,20,1256,601,0 1060,21,1127,536,0 925,26,979,489,0 201,26,249,500,0 291,39,340,441,0 840,31,887,419,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01021.jpg 68,4,118,583,0 0,15,45,645,0 954,15,995,515,0 879,8,918,453,0 151,4,195,550,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00525.jpg 940,38,992,508,0 105,31,158,514,0 859,31,906,448,0 204,36,251,453,0 308,31,347,439,0 355,29,393,412,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00686.jpg 195,19,248,549,0 316,23,357,490,0 1036,9,1093,463,0 896,19,943,414,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00333.jpg 60,30,106,566,0 205,36,244,495,0 991,31,1051,522,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00801.jpg 948,20,1017,522,0 203,10,268,472,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00456.jpg 381,27,424,459,0 949,17,993,434,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01032.jpg 23,5,67,568,0 1147,7,1197,608,0 957,11,998,514,0 872,9,914,458,0 839,8,875,448,0 114,10,154,493,0 716,10,750,413,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00750.jpg 1202,12,1258,615,0 103,28,161,566,0 182,28,233,513,0 1059,13,1111,528,0 780,48,812,437,0 704,38,743,396,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00762.jpg 1232,26,1280,535,0 1063,15,1120,518,0 272,33,307,425,0 881,15,920,413,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00392.jpg 1215,34,1273,631,0 1132,26,1180,589,0 158,22,217,537,0 221,31,271,495,0 841,28,888,453,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00358.jpg 132,34,192,634,0 1181,20,1240,567,0 270,26,315,533,0 1060,14,1116,525,0 363,38,407,486,0 948,27,996,454,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00588.jpg 15,21,71,520,0 1018,26,1078,533,0 933,31,985,488,0 184,13,240,471,0 262,23,310,455,0 428,8,473,381,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00935.jpg 36,14,80,573,0 145,9,189,511,0 967,9,1008,447,0 329,1,366,420,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00827.jpg 1154,0,1205,484,0 108,0,168,529,0 235,0,287,485,0 269,0,313,458,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00828.jpg 48,9,122,600,0 188,0,245,567,0 237,5,292,532,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00990.jpg 114,0,160,605,0 354,7,390,454,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00778.jpg 317,15,363,397,0 811,0,852,386,0 868,10,904,404,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00986.jpg 70,10,110,598,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00714.jpg 1075,33,1131,551,0 957,20,1002,507,0 953,35,994,500,0 287,18,339,492,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00894.jpg 1224,11,1280,528,0 1030,7,1073,475,0 1089,8,1136,489,0 198,5,246,505,0 255,6,294,496,0 836,3,867,376,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00312.jpg 129,25,178,522,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00947.jpg 1251,7,1280,598,0 906,14,944,460,0 138,4,180,512,0 192,6,236,497,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00997.jpg 201,3,270,581,0 363,17,403,528,0 1105,7,1152,444,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00900.jpg 1180,0,1230,522,0 1095,5,1144,500,0 977,15,1024,454,0 70,15,123,581,0 854,11,888,386,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00659.jpg 92,26,145,527,0 1151,44,1216,635,0 136,28,187,506,0 1044,31,1099,577,0 827,21,871,439,0 263,10,307,452,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00485.jpg 33,29,83,578,0 1111,20,1172,583,0 143,26,195,512,0 1055,36,1112,535,0 930,25,986,483,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00441.jpg 1025,29,1079,582,0 109,25,166,551,0 255,23,304,482,0 888,37,947,454,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00944.jpg 1120,17,1168,543,0 866,5,904,451,0 207,7,244,483,0 242,9,286,475,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00418.jpg 123,5,169,509,0 149,10,193,517,0 768,14,835,533,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00807.jpg 180,0,246,504,0 961,0,1005,458,0 268,0,308,460,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00747.jpg 1087,17,1141,550,0 984,14,1031,478,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00861.jpg 48,7,92,539,0 1122,5,1170,643,0 193,0,239,495,0 259,3,301,447,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00748.jpg 1106,19,1159,552,0 175,20,227,537,0 230,20,281,496,0 997,17,1044,481,0 771,25,803,413,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00548.jpg 1032,41,1086,582,0 119,50,164,540,0 922,42,970,542,0 229,62,274,489,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00826.jpg 1112,11,1163,499,0 121,0,182,543,0 231,0,284,523,0 275,0,318,500,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00938.jpg 63,11,107,562,0 1035,11,1081,499,0 812,5,844,433,0 298,22,336,440,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00586.jpg 1101,30,1157,569,0 83,21,139,503,0 957,23,1017,495,0 887,19,938,456,0 224,25,280,455,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00769.jpg 94,20,155,527,0 380,26,426,408,0 155,23,199,523,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00899.jpg 1151,12,1201,535,0 1075,0,1124,476,0 965,11,1016,450,0 13,0,62,589,0 106,11,152,555,0 854,1,888,377,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00927.jpg 89,22,131,550,0 1191,7,1242,531,0 1103,7,1139,507,0 153,12,195,518,0 248,10,287,476,0 297,6,335,441,0 858,6,893,401,0 394,5,428,385,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00504.jpg 1132,27,1183,579,0 972,32,1020,541,0 873,37,915,472,0 26,43,70,563,0 110,33,158,517,0 208,28,248,497,0 291,20,331,434,0 760,8,794,421,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00816.jpg 1104,0,1168,533,0 102,5,148,583,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01047.jpg 940,6,981,536,0 865,11,903,472,0 17,5,62,570,0 197,6,235,486,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00501.jpg 50,33,108,576,0 1153,61,1214,620,0 1036,44,1086,549,0 921,33,968,516,0 843,46,880,464,0 122,53,166,536,0 248,19,287,488,0 322,19,362,433,0 747,14,782,428,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00758.jpg 1008,17,1076,503,0 908,17,956,497,0 274,31,308,423,0 790,42,829,414,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00870.jpg 107,7,155,523,0 1077,7,1125,526,0 1001,6,1047,532,0 237,1,282,443,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00966.jpg 3,7,46,535,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00976.jpg 855,14,900,526,0 33,11,78,552,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00735.jpg 12,17,143,661,0 181,22,239,597,0 963,21,1001,473,0 902,31,936,459,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00408.jpg 983,42,1035,575,0 849,38,910,497,0 56,41,104,543,0 152,31,198,479,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00452.jpg 30,41,102,588,0 1201,20,1260,500,0 421,52,464,430,0 904,15,948,409,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01020.jpg 98,18,148,555,0 21,8,77,618,0 936,0,976,500,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00914.jpg 1091,3,1132,473,0 244,4,287,521,0 286,0,326,447,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00679.jpg 133,15,184,563,0 1070,20,1116,522,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00565.jpg 1162,36,1230,625,0 71,8,123,550,0 968,4,1024,516,0 910,11,955,481,0 132,24,182,522,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00742.jpg 1113,21,1160,527,0 991,18,1036,465,0 33,52,117,648,0 926,16,973,427,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00638.jpg 147,21,201,571,0 248,19,299,546,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00918.jpg 185,4,222,552,0 292,0,326,440,0 238,2,278,455,0 936,0,979,417,0 903,0,933,412,0 324,9,359,440,0 368,10,392,404,0 796,0,831,363,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00713.jpg 1187,31,1238,561,0 1034,17,1077,510,0 896,25,932,463,0 938,29,979,495,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00607.jpg 101,21,153,561,0 1046,23,1099,495,0 313,71,358,452,0 844,10,883,395,0 769,31,797,369,0 436,41,466,404,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01003.jpg 1136,9,1182,523,0 164,27,209,588,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00658.jpg 113,20,166,498,0 1065,7,1131,598,0 157,19,208,496,0 1004,10,1059,556,0 816,34,854,429,0 270,16,314,440,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00978.jpg 921,8,971,557,0 9,5,54,585,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00382.jpg 1222,21,1280,601,0 40,51,99,583,0 1113,31,1169,560,0 150,31,200,532,0 1024,25,1078,500,0 924,25,982,484,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00830.jpg 156,0,213,556,0 210,0,266,511,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01031.jpg 46,13,90,550,0 1116,10,1165,578,0 933,7,975,510,0 857,6,899,456,0 827,9,862,449,0 143,10,183,487,0 713,13,746,416,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00931.jpg 39,9,84,578,0 184,9,223,512,0 247,8,286,466,0 908,5,943,430,0 369,6,403,407,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00937.jpg 98,9,143,532,0 1002,5,1048,456,0 802,0,838,400,0 308,5,345,423,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00610.jpg 0,45,40,588,0 1145,9,1198,572,0 268,37,313,456,0 871,26,910,410,0 780,37,811,376,0 407,29,441,403,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00344.jpg 79,42,134,616,0 217,27,281,583,0 1120,13,1166,526,0 1091,20,1132,520,0 314,21,360,498,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00583.jpg 1005,26,1061,529,0 26,35,76,548,0 155,25,211,478,0 265,20,321,450,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00662.jpg 0,23,51,572,0 46,27,97,537,0 1166,31,1226,628,0 862,29,906,456,0 215,26,259,467,0 792,13,827,454,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00449.jpg 117,41,172,534,0 1108,24,1167,487,0 424,25,467,404,0 863,35,906,405,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00351.jpg 109,37,164,606,0 173,32,220,577,0 1082,23,1138,546,0 275,28,335,514,0 970,14,1028,471,0 1032,20,1076,484,0 354,30,399,463,0 862,13,910,418,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00502.jpg 1171,30,1232,627,0 1053,28,1104,545,0 927,26,975,509,0 840,38,877,456,0 90,37,134,542,0 145,32,193,511,0 233,17,273,486,0 304,15,344,429,0 749,10,783,423,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00783.jpg 248,36,296,468,0 858,13,905,432,0 935,13,981,465,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00772.jpg 9,27,71,534,0 373,18,419,400,0 93,34,146,541,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00670.jpg 1053,16,1117,574,0 33,17,77,539,0 872,22,927,524,0 143,14,193,484,0 827,33,876,515,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00887.jpg 60,0,128,581,0 1054,1,1100,504,0 992,0,1043,465,0 204,5,252,554,0 313,21,358,457,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00693.jpg 1127,20,1185,540,0 1047,18,1097,517,0 172,29,220,558,0 980,20,1029,512,0 264,20,325,502,0 877,24,925,456,0 353,24,400,437,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00454.jpg 388,40,431,452,0 915,26,958,425,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00368.jpg 135,24,194,614,0 1195,48,1247,546,0 248,35,286,554,0 1124,39,1173,537,0 333,25,375,511,0 1078,35,1121,516,0 1037,32,1086,482,0 384,24,426,467,0 949,25,990,439,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00416.jpg 1042,26,1136,679,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00483.jpg 107,28,158,555,0 1046,25,1107,535,0 197,15,248,484,0 991,25,1048,525,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00495.jpg 1066,28,1120,567,0 118,33,170,512,0 203,29,248,467,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00609.jpg 23,37,79,581,0 1109,11,1162,535,0 283,27,328,447,0 860,19,899,403,0 774,31,802,369,0 426,25,456,399,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00803.jpg 1004,0,1073,554,0 177,1,243,476,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00595.jpg 1125,3,1177,583,0 0,27,52,544,0 1041,20,1107,531,0 99,24,153,513,0 181,14,231,434,0 246,8,286,450,0 395,0,440,352,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00521.jpg 28,61,85,566,0 1145,42,1203,589,0 864,30,915,483,0 189,36,242,495,0 802,17,849,434,0 259,21,305,439,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00669.jpg 1015,25,1078,556,0 64,17,108,527,0 856,25,906,511,0 161,16,212,467,0 822,26,861,494,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00372.jpg 71,42,127,637,0 231,31,274,560,0 1199,22,1242,572,0 1120,33,1169,539,0 309,27,352,483,0 987,33,1027,469,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00847.jpg 966,0,1046,541,0 1156,0,1214,648,0 161,6,204,456,0 198,9,235,445,0 742,2,785,456,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00340.jpg 54,58,123,597,0 162,36,211,567,0 1113,25,1171,582,0 263,31,303,514,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01024.jpg 1022,8,1072,572,0 974,7,1016,550,0 922,14,966,488,0 49,13,95,597,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00858.jpg 13,5,73,555,0 117,1,163,514,0 985,0,1033,584,0 1130,0,1189,601,0 279,6,320,451,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00892.jpg 1146,3,1194,493,0 41,11,88,666,0 980,3,1023,455,0 239,1,283,491,0 290,1,329,481,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00628.jpg 987,0,1029,412,0 252,0,294,486,0 316,8,366,462,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00360.jpg 44,31,104,651,0 231,15,275,542,0 1121,22,1177,533,0 329,0,373,462,0 989,14,1037,447,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00403.jpg 1048,31,1103,604,0 882,35,933,506,0 83,37,132,541,0 134,47,178,527,0 798,39,859,477,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01036.jpg 1080,5,1142,531,0 960,12,1009,510,0 899,10,937,481,0 816,13,855,446,0 9,14,54,548,0 735,1,768,429,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00315.jpg 52,35,101,565,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00440.jpg 1197,32,1263,615,0 993,26,1048,573,0 126,26,182,552,0 260,27,309,486,0 873,37,926,440,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00951.jpg 987,9,1032,511,0 7,4,49,561,0 85,0,129,533,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00868.jpg 20,7,66,587,0 148,3,197,518,0 1011,0,1059,521,0 956,0,999,516,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00779.jpg 304,15,352,448,0 814,2,857,416,0 877,15,914,434,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00761.jpg 1187,47,1256,533,0 1031,16,1089,520,0 273,34,308,426,0 871,15,910,413,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00587.jpg 1163,27,1219,602,0 43,28,99,510,0 992,42,1053,514,0 902,24,954,462,0 193,23,249,452,0 270,20,318,451,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00597.jpg 1158,26,1224,611,0 28,20,82,555,0 130,23,180,513,0 1014,25,1074,512,0 195,22,241,484,0 388,25,433,378,0 737,11,796,371,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00457.jpg 361,27,404,472,0 953,22,996,440,0 413,23,446,464,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00627.jpg 971,20,1013,450,0 283,22,325,551,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00705.jpg 1222,47,1278,618,0 1165,9,1210,543,0 152,28,206,543,0 955,26,997,450,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00541.jpg 1011,63,1059,518,0 930,35,971,467,0 78,48,127,586,0 223,78,271,515,0 311,49,349,455,0 877,31,915,433,0 376,52,405,442,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00498.jpg 1167,32,1231,667,0 36,24,88,560,0 135,23,180,520,0 1020,24,1081,583,0 950,27,1001,515,0 814,41,850,459,0 346,33,386,410,0 740,19,775,432,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00856.jpg 68,0,113,498,0 132,0,179,472,0 901,0,949,535,0 1015,2,1064,561,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00639.jpg 111,24,164,584,0 213,26,264,564,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00487.jpg 1185,33,1246,636,0 82,27,134,539,0 1117,33,1174,556,0 956,33,1012,515,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00575.jpg 1132,22,1196,586,0 15,20,63,594,0 131,31,186,517,0 1034,21,1083,529,0 868,21,910,453,0 233,30,276,476,0 293,23,336,448,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00916.jpg 1138,10,1186,500,0 229,0,269,543,0 314,9,345,445,0 264,0,304,458,0 893,7,937,426,0 875,6,905,412,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00369.jpg 81,21,140,646,0 193,25,238,565,0 1163,55,1213,553,0 302,29,344,515,0 1119,47,1162,529,0 1068,37,1117,486,0 363,24,405,467,0 960,25,1001,439,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00822.jpg 1145,0,1202,580,0 1040,2,1091,484,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00934.jpg 84,10,123,550,0 181,10,225,482,0 957,17,992,440,0 340,4,374,403,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00813.jpg 0,0,58,614,0 1165,0,1220,554,0 126,0,182,552,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00790.jpg 68,11,128,528,0 949,11,1020,467,0 1131,17,1200,544,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00806.jpg 182,0,249,517,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00561.jpg 1000,25,1053,525,0 1115,25,1171,577,0 170,7,222,508,0 883,21,932,477,0 845,19,885,446,0 213,11,264,475,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00310.jpg 1061,15,1128,616,0 51,31,110,548,0 138,29,187,504,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00874.jpg 1130,6,1185,588,0 893,7,942,432,0 170,3,219,503,0 328,3,368,444,0 847,7,875,420,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00785.jpg 209,52,256,484,0 878,15,926,434,0 972,8,1030,479,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00593.jpg 1207,24,1268,649,0 1043,25,1096,568,0 68,26,124,521,0 157,20,205,495,0 223,21,273,442,0 407,6,452,379,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00950.jpg 957,7,1003,509,0 48,7,89,564,0 119,11,163,546,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00362.jpg 175,36,232,589,0 1198,25,1254,572,0 308,26,352,521,0 1033,26,1081,491,0 367,28,406,490,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00737.jpg 1013,9,1051,459,0 948,14,982,430,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00552.jpg 1180,19,1248,650,0 1010,16,1065,567,0 0,11,52,567,0 141,15,202,495,0 824,26,875,455,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00736.jpg 988,15,1026,466,0 925,22,959,444,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00680.jpg 109,31,160,588,0 427,32,468,456,0 1100,19,1147,520,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00515.jpg 171,24,228,476,0 924,27,968,496,0 1050,13,1121,564,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00447.jpg 172,16,221,509,0 1030,9,1089,448,0 423,19,466,397,0 833,16,876,386,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00448.jpg 160,25,215,518,0 1059,23,1119,462,0 427,25,470,403,0 848,25,891,396,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00435.jpg 132,22,183,534,0 1146,17,1211,587,0 1028,12,1095,527,0 911,26,965,484,0 224,20,272,493,0 299,28,340,430,0 834,30,881,418,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00316.jpg 16,32,65,562,0 69,34,115,548,0 106,31,151,519,0 165,29,210,487,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00384.jpg 1175,32,1232,590,0 106,31,156,547,0 1059,37,1113,520,0 943,26,1000,485,0 198,28,253,516,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00886.jpg 99,0,148,530,0 1023,2,1069,497,0 219,0,266,515,0 320,8,364,444,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01043.jpg 1185,5,1235,618,0 993,7,1046,505,0 843,11,877,505,0 57,11,94,545,0 799,5,831,457,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00460.jpg 323,31,366,507,0 1004,17,1048,470,0 380,36,413,478,0 962,17,1003,472,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00988.jpg 0,19,42,622,0 142,5,189,547,0 341,4,377,441,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00347.jpg 131,31,195,599,0 1235,42,1280,558,0 1192,42,1234,555,0 266,31,312,539,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00707.jpg 83,23,138,571,0 996,35,1037,474,0 217,29,265,491,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00952.jpg 1009,11,1054,513,0 54,16,98,550,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00624.jpg 930,11,971,386,0 324,13,358,446,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00904.jpg 1056,3,1109,502,0 81,6,132,610,0 874,2,909,396,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01041.jpg 1158,18,1220,616,0 1053,9,1104,584,0 920,9,965,493,0 793,12,828,489,0 93,11,137,532,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00971.jpg 982,15,1046,646,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00751.jpg 37,18,107,589,0 143,21,194,523,0 1102,9,1162,547,0 783,48,815,437,0 315,23,350,415,0 704,31,743,396,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00463.jpg 265,21,309,512,0 1062,15,1105,468,0 330,33,363,474,0 1013,6,1066,461,0 948,19,1002,425,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00475.jpg 1202,23,1256,579,0 109,32,168,561,0 198,25,247,515,0 270,23,318,466,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00383.jpg 13,39,71,593,0 1152,22,1208,572,0 133,42,183,542,0 1043,25,1097,507,0 930,27,987,486,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00682.jpg 31,37,88,627,0 323,24,376,510,0 415,26,456,471,0 1165,13,1212,574,0 1101,29,1142,518,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00373.jpg 208,27,250,578,0 1136,31,1186,552,0 285,45,327,500,0 991,31,1039,484,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01039.jpg 1050,16,1109,566,0 961,11,1006,517,0 859,13,904,461,0 763,2,797,450,0 109,0,154,504,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00743.jpg 1134,18,1181,528,0 994,18,1039,465,0 0,12,84,608,0 930,15,977,426,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00546.jpg 1183,30,1241,583,0 1038,49,1092,527,0 94,31,144,571,0 231,42,276,482,0 956,53,994,491,0 328,39,364,466,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00518.jpg 116,23,173,528,0 1031,42,1075,571,0 1214,38,1280,641,0 818,14,870,468,0 771,9,818,425,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00623.jpg 909,0,949,374,0 341,5,375,439,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00617.jpg 136,26,187,495,0 1004,20,1053,441,0 833,0,868,367,0 380,0,414,394,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00492.jpg 66,35,133,539,0 1084,29,1140,546,0 976,25,1030,523,0 209,25,260,473,0 273,19,310,433,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00474.jpg 1166,26,1220,558,0 153,23,213,553,0 239,22,287,512,0 300,23,348,466,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00995.jpg 256,8,330,551,0 389,5,430,516,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00473.jpg 1141,28,1195,553,0 181,27,240,557,0 263,26,311,508,0 317,24,365,467,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00727.jpg 120,17,205,597,0 1096,26,1139,502,0 1025,16,1069,444,0 974,17,1015,436,0 319,25,375,467,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00746.jpg 1067,11,1120,521,0 982,18,1030,470,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00509.jpg 1160,24,1222,644,0 988,20,1030,531,0 110,20,150,521,0 238,29,278,443,0 816,31,850,455,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00884.jpg 1154,1,1207,541,0 163,6,208,495,0 975,5,1021,444,0 338,4,382,428,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00633.jpg 1155,11,1203,471,0 163,6,217,600,0 267,14,317,521,0 342,8,393,505,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00469.jpg 42,37,108,660,0 180,40,237,579,0 1189,42,1242,570,0 1059,28,1114,518,0 289,25,348,517,0 352,14,400,476,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00765.jpg 1172,16,1250,580,0 205,21,259,466,0 410,15,455,381,0 932,25,976,441,0 248,23,292,478,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00715.jpg 1097,26,1153,545,0 929,43,965,482,0 968,40,1009,506,0 276,20,328,494,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00396.jpg 20,26,79,605,0 122,23,172,550,0 193,26,236,509,0 886,18,933,482,0 817,28,860,442,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00438.jpg 28,31,99,586,0 1109,35,1176,558,0 949,26,1003,495,0 173,25,221,499,0 281,33,331,443,0 852,34,899,423,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00991.jpg 112,21,165,637,0 378,7,419,481,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00955.jpg 1115,21,1168,567,0 1064,9,1111,550,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01017.jpg 166,12,215,532,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00716.jpg 1147,28,1203,561,0 955,27,992,478,0 993,25,1034,510,0 143,10,240,553,0 264,22,316,496,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00678.jpg 116,14,167,561,0 989,16,1036,517,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00366.jpg 201,24,251,576,0 1142,24,1190,512,0 290,24,329,521,0 1078,29,1127,502,0 362,25,400,481,0 1012,14,1061,464,0 936,9,976,423,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00409.jpg 1004,28,1056,588,0 860,32,921,502,0 14,45,62,557,0 125,42,171,502,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00370.jpg 170,40,216,609,0 1180,27,1229,561,0 291,31,333,538,0 1135,30,1178,544,0 1086,64,1136,514,0 356,35,398,478,0 969,44,1009,458,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00732.jpg 1208,21,1254,512,0 1109,18,1166,507,0 166,5,256,537,0 295,14,343,517,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00489.jpg 11,40,62,551,0 1185,39,1241,600,0 148,29,215,533,0 996,40,1052,542,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00811.jpg 78,0,144,570,0 1092,0,1147,509,0 196,0,251,519,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00399.jpg 27,30,77,580,0 136,27,187,527,0 941,20,988,520,0 840,34,883,448,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00371.jpg 124,36,170,630,0 264,46,306,552,0 1164,27,1207,554,0 1107,31,1156,538,0 344,38,386,494,0 976,59,1017,473,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00303.jpg 848,9,915,528,0 963,15,1023,544,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00671.jpg 1105,38,1169,596,0 885,33,945,539,0 115,20,165,491,0 843,28,892,523,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00568.jpg 1059,17,1115,558,0 968,30,1013,500,0 56,28,107,544,0 917,24,969,466,0 863,20,912,441,0 787,20,828,399,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00863.jpg 2,0,46,573,0 172,0,219,500,0 1095,3,1147,560,0 1162,5,1212,556,0 250,15,292,460,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00832.jpg 112,0,171,529,0 179,0,237,490,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00787.jpg 157,21,219,511,0 901,8,962,451,0 1020,24,1077,495,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00925.jpg 159,19,200,528,0 36,9,87,573,0 1103,4,1153,506,0 1036,3,1071,491,0 207,4,248,507,0 286,11,325,477,0 834,11,869,401,0 402,2,435,399,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00545.jpg 1147,33,1206,569,0 1026,40,1079,517,0 114,41,165,558,0 250,38,295,478,0 941,37,979,476,0 340,30,376,456,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00965.jpg 49,6,92,512,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00902.jpg 1162,25,1215,533,0 1016,8,1067,477,0 165,14,209,564,0 865,0,899,385,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00881.jpg 1053,0,1102,503,0 240,0,285,485,0 930,5,979,451,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00381.jpg 44,36,96,622,0 1171,16,1230,596,0 101,38,160,571,0 1063,26,1120,536,0 184,21,234,522,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00378.jpg 147,40,198,586,0 1059,25,1107,541,0 995,30,1041,499,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00690.jpg 149,33,200,524,0 1045,23,1103,508,0 1009,27,1059,488,0 240,32,285,499,0 934,20,983,470,0 858,25,905,420,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00958.jpg 1192,12,1245,589,0 1034,12,1089,552,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00694.jpg 1163,17,1220,547,0 1070,13,1120,512,0 122,23,171,573,0 996,17,1045,510,0 248,14,301,496,0 882,18,930,451,0 335,21,374,434,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00506.jpg 1031,33,1092,583,0 911,25,953,494,0 47,35,95,547,0 169,27,209,496,0 271,21,311,435,0 773,22,808,435,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00591.jpg 1140,28,1200,594,0 998,34,1051,524,0 110,28,166,504,0 198,28,246,482,0 248,17,298,438,0 412,1,457,373,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00367.jpg 184,44,234,627,0 1168,37,1215,536,0 275,40,314,559,0 1106,37,1155,535,0 354,27,397,513,0 1057,31,1100,513,0 1016,32,1065,482,0 937,28,977,442,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00703.jpg 1148,28,1204,600,0 1094,20,1135,523,0 214,35,258,535,0 932,36,970,460,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00866.jpg 86,10,132,553,0 195,8,237,486,0 960,3,1008,514,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00341.jpg 39,61,109,600,0 148,25,198,555,0 1165,21,1224,609,0 1081,19,1138,551,0 259,26,300,509,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00302.jpg 838,2,905,521,0 926,15,986,533,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00576.jpg 1167,30,1230,594,0 109,32,164,531,0 1046,26,1103,554,0 875,34,916,467,0 222,41,265,487,0 282,31,325,456,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00763.jpg 1109,25,1175,544,0 252,19,298,434,0 898,17,937,415,0 290,17,334,436,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01038.jpg 1170,9,1266,570,0 1020,7,1073,550,0 942,15,986,497,0 849,14,887,448,0 752,2,785,430,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00784.jpg 230,44,277,477,0 868,16,915,435,0 955,15,1001,467,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00681.jpg 92,22,149,590,0 338,26,391,485,0 421,29,462,463,0 1114,29,1161,530,0 1071,14,1113,504,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00774.jpg 353,31,398,412,0 1108,18,1194,576,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00709.jpg 1054,29,1096,503,0 145,32,193,537,0 949,31,993,500,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00664.jpg 898,17,942,483,0 177,23,221,489,0 106,30,160,530,0 801,30,842,471,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01019.jpg 131,15,181,551,0 57,0,113,610,0 920,11,960,512,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00873.jpg 1098,0,1153,564,0 878,3,926,428,0 193,5,239,484,0 842,0,870,405,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00756.jpg 0,30,61,568,0 912,14,976,466,0 857,31,893,453,0 273,28,308,420,0 752,31,791,404,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00797.jpg 1203,0,1271,605,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00325.jpg 49,29,92,570,0 130,28,178,536,0 1048,32,1127,584,0 207,27,253,466,0 930,33,995,543,0 292,31,325,457,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01012.jpg 1065,0,1110,547,0 0,6,55,644,0 108,9,154,590,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00869.jpg 120,1,168,517,0 1050,0,1097,518,0 975,0,1018,514,0 251,3,296,448,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00395.jpg 81,36,140,585,0 160,42,209,534,0 227,41,270,501,0 871,23,919,477,0 815,28,858,442,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00744.jpg 1166,17,1225,580,0 1015,27,1067,507,0 948,19,995,458,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00582.jpg 976,42,1032,506,0 65,33,116,541,0 174,23,230,475,0 273,14,329,444,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00857.jpg 37,3,90,512,0 124,5,171,487,0 956,3,1004,550,0 1081,5,1141,578,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00996.jpg 252,0,310,575,0 385,24,425,535,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00823.jpg 1193,0,1250,588,0 1064,0,1114,488,0 198,0,268,489,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00970.jpg 953,2,1010,623,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00346.jpg 163,34,227,601,0 1194,30,1241,546,0 1158,31,1199,536,0 281,41,326,517,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00594.jpg 1087,30,1139,611,0 31,31,87,548,0 135,34,183,516,0 204,32,254,453,0 266,28,306,470,0 404,6,449,379,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00505.jpg 1174,19,1225,590,0 986,23,1048,554,0 882,23,924,469,0 72,39,121,531,0 184,25,224,495,0 280,18,320,432,0 763,12,798,425,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00653.jpg 216,39,259,460,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00589.jpg 1050,24,1110,548,0 952,29,1004,500,0 164,29,220,487,0 233,36,281,467,0 273,20,323,426,0 421,4,466,378,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00413.jpg 932,22,1007,557,0 42,23,88,539,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00898.jpg 1123,8,1173,531,0 1218,11,1263,551,0 1052,6,1101,487,0 60,5,111,581,0 139,22,187,543,0 854,9,888,385,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00969.jpg 943,7,1001,628,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00602.jpg 1053,38,1101,534,0 1009,29,1055,511,0 74,20,127,553,0 209,33,260,487,0 911,25,957,451,0 353,25,398,406,0 785,14,825,374,0 739,18,764,357,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00459.jpg 337,27,380,491,0 976,28,1020,461,0 393,25,426,466,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00917.jpg 210,4,250,547,0 309,0,340,435,0 259,0,299,446,0 928,4,971,423,0 902,6,932,420,0 795,3,830,374,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00768.jpg 137,9,189,501,0 389,18,435,400,0 188,15,232,503,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00334.jpg 39,35,85,596,0 187,37,226,523,0 1027,30,1087,543,0 238,31,287,505,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00907.jpg 1144,6,1196,540,0 0,33,45,663,0 114,6,164,551,0 910,0,945,417,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00439.jpg 1178,32,1245,586,0 982,31,1036,512,0 145,28,202,526,0 268,24,317,444,0 858,36,905,425,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00929.jpg 21,2,62,570,0 1177,6,1224,541,0 102,2,143,540,0 222,6,261,472,0 281,0,320,436,0 882,0,917,410,0 386,0,419,385,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00637.jpg 16,18,70,661,0 183,21,234,554,0 286,26,337,517,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00323.jpg 23,29,68,561,0 103,25,146,534,0 169,21,209,507,0 1003,15,1082,567,0 252,27,297,466,0 906,11,971,512,0 319,23,352,449,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00757.jpg 962,39,1026,490,0 867,37,913,487,0 259,32,294,424,0 763,38,802,411,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00380.jpg 69,31,121,595,0 1125,32,1173,567,0 126,24,185,556,0 1031,38,1087,521,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00309.jpg 1004,20,1071,598,0 72,26,131,543,0 160,22,209,497,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00480.jpg 77,28,137,576,0 193,14,244,494,0 272,25,324,446,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00343.jpg 110,32,165,605,0 226,25,291,582,0 1100,13,1147,526,0 1060,15,1102,515,0 319,24,364,500,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00327.jpg 76,28,124,548,0 1141,27,1220,640,0 182,33,228,487,0 1004,22,1070,587,0 270,30,303,456,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00989.jpg 131,8,178,582,0 348,7,382,445,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00307.jpg 963,31,1030,569,0 1124,27,1191,590,0 17,28,77,539,0 111,25,170,506,0 187,21,231,478,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00891.jpg 1190,3,1243,527,0 1105,0,1156,456,0 99,12,148,603,0 959,0,998,429,0 264,5,311,470,0 306,3,346,456,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01042.jpg 1120,10,1171,585,0 958,0,1003,446,0 823,0,858,447,0 73,0,117,503,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00688.jpg 224,42,264,509,0 1023,22,1081,489,0 307,14,352,481,0 928,20,977,457,0 865,22,912,418,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00356.jpg 177,32,237,578,0 1100,30,1158,546,0 1184,29,1235,550,0 300,24,345,505,0 369,20,413,467,0 918,28,965,443,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00553.jpg 1228,29,1280,660,0 1048,14,1103,565,0 138,20,199,501,0 983,11,1031,512,0 838,25,889,453,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00764.jpg 1154,15,1219,534,0 242,23,288,439,0 915,19,954,417,0 276,18,320,437,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00880.jpg 1024,5,1072,477,0 248,2,291,462,0 925,0,967,429,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00432.jpg 106,27,160,560,0 223,24,274,500,0 287,20,336,477,0 351,46,391,435,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00560.jpg 987,38,1040,539,0 1089,29,1145,581,0 187,26,238,527,0 878,32,926,488,0 835,22,875,466,0 230,23,281,487,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00476.jpg 58,22,117,552,0 170,21,218,511,0 248,16,296,459,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00960.jpg 1079,14,1134,588,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00411.jpg 1092,27,1156,636,0 904,26,965,533,0 78,20,124,505,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00829.jpg 29,0,104,591,0 172,0,229,561,0 232,5,288,532,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00335.jpg 173,19,212,504,0 1058,25,1119,546,0 229,22,278,495,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00314.jpg 75,25,124,555,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00936.jpg 10,29,54,589,0 139,4,183,527,0 987,21,1028,459,0 800,4,835,417,0 324,11,361,429,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00517.jpg 125,28,182,507,0 997,24,1041,534,0 1165,20,1236,622,0 798,7,849,461,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00328.jpg 53,37,101,556,0 155,36,201,489,0 1074,32,1158,601,0 260,40,293,466,0 860,31,921,489,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00711.jpg 1123,22,1174,551,0 53,44,101,575,0 1001,28,1044,512,0 877,31,913,461,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00961.jpg 1130,18,1185,591,0 4,11,52,578,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00661.jpg 39,25,93,557,0 87,31,137,522,0 1108,31,1168,612,0 846,31,890,449,0 238,22,282,464,0 779,14,814,456,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00332.jpg 66,25,112,561,0 201,33,240,492,0 960,45,1020,510,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00599.jpg 104,36,154,526,0 1093,21,1153,524,0 180,34,226,496,0 865,14,906,438,0 386,15,431,384,0 767,2,806,362,0 731,9,755,347,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00488.jpg 44,27,95,539,0 1148,28,1205,564,0 975,36,1031,517,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00319.jpg 6,26,52,593,0 65,26,110,582,0 132,26,176,531,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00948.jpg 929,7,967,453,0 95,0,137,500,0 156,0,200,489,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00731.jpg 1165,11,1212,503,0 1078,11,1135,500,0 247,51,303,517,0 332,11,380,503,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00852.jpg 94,0,137,467,0 135,15,178,456,0 757,0,805,478,0 831,6,877,492,0 0,0,36,512,0 1021,9,1080,637,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00817.jpg 1147,11,1210,544,0 65,4,119,590,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00493.jpg 22,48,90,575,0 1125,41,1181,572,0 1009,43,1062,555,0 187,34,238,506,0 256,32,301,458,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00636.jpg 55,19,110,636,0 212,21,263,538,0 312,11,363,501,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00775.jpg 352,25,397,407,0 1170,7,1257,565,0 791,6,833,397,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00818.jpg 24,8,81,623,0 976,4,1026,447,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00795.jpg 1101,55,1166,547,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00903.jpg 1201,0,1263,545,0 1038,3,1089,472,0 123,9,175,578,0 867,0,902,383,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00939.jpg 43,10,87,561,0 1061,2,1108,490,0 822,0,854,424,0 287,2,325,438,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00697.jpg 1197,15,1246,598,0 42,21,90,616,0 1100,21,1149,550,0 201,30,254,527,0 937,23,984,484,0 319,36,358,460,0 849,37,888,411,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00771.jpg 45,19,107,525,0 374,3,419,385,0 121,12,175,519,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00379.jpg 93,29,145,575,0 1092,30,1140,546,0 1015,30,1060,499,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00979.jpg 949,7,999,556,0 0,11,42,591,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00450.jpg 104,36,160,544,0 1142,16,1202,496,0 422,29,465,408,0 886,16,929,411,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00673.jpg 1213,17,1280,660,0 934,24,994,589,0 88,16,138,503,0 877,25,929,556,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00689.jpg 192,26,242,505,0 1034,22,1092,489,0 1004,20,1053,481,0 276,18,321,484,0 931,20,980,464,0 860,20,908,415,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00920.jpg 121,0,167,580,0 257,2,292,463,0 188,1,227,489,0 970,1,1014,439,0 931,6,961,433,0 295,3,331,454,0 343,3,371,425,0 802,9,837,384,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00430.jpg 78,24,129,587,0 1110,40,1164,595,0 170,26,224,543,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00897.jpg 1082,14,1126,507,0 1163,12,1209,535,0 1021,9,1066,472,0 96,16,147,568,0 169,16,217,537,0 841,8,876,384,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00793.jpg 1020,30,1085,522,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00621.jpg 1157,21,1216,534,0 890,16,931,401,0 359,23,393,456,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00496.jpg 1092,29,1145,582,0 96,38,148,532,0 185,41,230,479,0 361,25,401,402,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01004.jpg 1133,13,1179,539,0 99,19,149,632,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00632.jpg 1105,0,1153,427,0 182,13,225,539,0 277,12,328,466,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00391.jpg 1169,27,1226,608,0 1089,31,1137,574,0 176,31,235,528,0 244,31,286,495,0 833,26,880,451,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00385.jpg 88,25,137,565,0 1108,22,1162,539,0 969,24,1026,495,0 176,38,231,526,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00596.jpg 1191,20,1243,624,0 1100,23,1166,575,0 65,29,118,550,0 174,21,224,483,0 975,18,1035,494,0 224,31,264,473,0 391,22,435,375,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00467.jpg 161,36,213,600,0 1182,35,1230,526,0 252,27,309,549,0 1117,32,1170,512,0 1020,36,1075,473,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00895.jpg 1052,6,1098,499,0 1112,6,1159,516,0 172,0,215,550,0 234,7,276,524,0 838,6,869,391,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00825.jpg 1071,2,1122,490,0 156,0,215,529,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00796.jpg 1143,3,1207,553,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00665.jpg 909,15,953,482,0 158,5,202,471,0 71,26,125,527,0 814,12,855,453,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01001.jpg 201,7,248,599,0 1173,4,1219,491,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00943.jpg 1200,10,1252,550,0 1087,0,1135,526,0 856,6,894,445,0 228,5,265,467,0 261,6,305,460,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00611.jpg 1206,18,1259,607,0 260,15,305,457,0 889,29,933,413,0 785,43,821,382,0 413,30,446,404,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00522.jpg 1211,68,1269,616,0 879,30,931,483,0 165,39,218,497,0 816,22,863,439,0 246,24,292,441,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00321.jpg 11,35,55,591,0 98,31,143,540,0 155,22,198,518,0 222,20,262,472,0 943,14,1022,528,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00524.jpg 908,22,960,492,0 135,55,187,513,0 844,25,891,442,0 233,32,280,450,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00348.jpg 80,28,144,615,0 216,29,262,552,0 252,27,298,532,0 397,25,441,458,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00558.jpg 1176,25,1241,619,0 933,30,986,499,0 1103,44,1159,566,0 1020,31,1075,540,0 74,27,132,540,0 839,21,888,469,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00701.jpg 58,44,137,614,0 1080,27,1136,541,0 1025,24,1065,483,0 260,31,303,497,0 915,37,954,450,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00534.jpg 1045,32,1109,540,0 861,64,904,453,0 215,29,254,493,0 294,77,332,461,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00975.jpg 819,7,858,509,0 43,3,88,531,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00759.jpg 1065,20,1133,506,0 954,21,1003,501,0 274,33,308,425,0 818,25,857,412,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00350.jpg 6,43,71,663,0 158,37,213,606,0 207,34,253,577,0 1038,23,1094,519,0 951,20,1009,477,0 366,32,411,465,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00773.jpg 367,12,413,394,0 55,22,110,547,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00490.jpg 121,31,188,535,0 1025,45,1081,547,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00512.jpg 1093,53,1147,584,0 38,31,88,553,0 209,30,248,467,0 860,32,904,477,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00537.jpg 1180,48,1244,594,0 919,34,961,471,0 870,18,911,450,0 182,28,221,519,0 282,84,320,467,0 336,38,375,444,0 824,57,862,437,0 395,23,424,413,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00860.jpg 68,3,112,528,0 1081,22,1129,607,0 202,7,248,483,0 266,6,308,451,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00926.jpg 124,4,165,531,0 1154,10,1206,512,0 1070,4,1106,492,0 184,7,226,510,0 264,1,303,467,0 311,3,347,435,0 849,10,883,401,0 400,0,434,379,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00567.jpg 1038,18,1094,530,0 947,9,992,479,0 71,8,121,524,0 905,5,957,447,0 856,9,905,431,0 782,5,823,384,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00879.jpg 1002,0,1050,475,0 18,3,71,551,0 276,0,318,460,0 914,1,956,434,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00908.jpg 1198,14,1250,548,0 79,9,129,575,0 934,0,969,412,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01045.jpg 1093,5,1156,469,0 898,0,940,484,0 22,0,67,541,0 849,0,883,425,0 68,0,113,485,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00794.jpg 1049,52,1114,544,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00422.jpg 93,28,139,532,0 115,16,160,523,0 910,24,967,538,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00993.jpg 302,0,375,512,0 419,0,459,476,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00606.jpg 1142,14,1192,539,0 141,21,193,513,0 999,21,1045,470,0 335,35,380,417,0 835,16,875,376,0 766,25,790,364,0 446,25,476,388,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00324.jpg 71,23,115,552,0 158,23,198,522,0 1016,16,1095,568,0 229,27,275,466,0 919,11,984,512,0 308,27,341,453,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00412.jpg 1146,38,1210,679,0 915,34,976,557,0 66,35,112,530,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01002.jpg 104,22,161,649,0 1164,8,1210,511,0 262,15,306,577,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00331.jpg 88,24,133,540,0 204,25,242,486,0 921,27,982,492,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00956.jpg 1138,4,1200,575,0 1098,14,1145,555,0 981,9,1020,503,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00497.jpg 1127,43,1180,618,0 60,23,112,534,0 160,25,204,495,0 798,23,834,441,0 357,34,397,411,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00464.jpg 242,46,293,569,0 1097,28,1140,519,0 324,84,357,525,0 1032,31,1086,507,0 973,33,1027,470,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00924.jpg 178,5,220,514,0 61,5,114,556,0 1085,2,1128,492,0 1020,7,1056,476,0 228,6,270,492,0 294,9,333,467,0 833,10,867,401,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00820.jpg 1109,10,1166,539,0 1012,0,1063,465,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01048.jpg 959,9,1002,567,0 882,5,920,485,0 182,13,222,495,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00510.jpg 1016,45,1070,556,0 90,27,130,537,0 228,35,268,449,0 832,47,866,471,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00605.jpg 1170,15,1225,564,0 1117,20,1163,530,0 157,52,209,505,0 984,26,1030,453,0 333,30,378,412,0 822,12,862,372,0 759,16,783,355,0 446,14,475,377,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00700.jpg 109,13,162,583,0 1031,33,1086,531,0 986,25,1026,474,0 273,19,316,484,0 883,24,921,438,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00434.jpg 10,26,64,592,0 161,20,212,531,0 1122,17,1187,565,0 1031,17,1097,532,0 897,26,951,479,0 253,26,301,500,0 325,32,365,434,0 827,29,875,418,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00949.jpg 944,5,990,465,0 77,3,119,514,0 140,16,184,505,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00451.jpg 67,17,122,564,0 1166,15,1225,495,0 419,33,463,412,0 893,9,937,404,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00654.jpg 203,45,246,466,0 776,14,814,410,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00663.jpg 13,26,64,555,0 882,31,927,476,0 193,33,237,475,0 115,19,169,519,0 796,30,831,471,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00415.jpg 992,32,1067,584,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00516.jpg 152,45,209,497,0 956,32,1000,531,0 1102,31,1173,607,0 786,15,838,469,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00804.jpg 1132,0,1201,595,0 177,3,243,493,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00571.jpg 1183,20,1239,620,0 1053,19,1105,539,0 995,20,1047,489,0 138,23,187,538,0 928,20,977,466,0 821,20,862,420,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00612.jpg 249,24,294,474,0 899,28,943,429,0 787,10,822,390,0 407,22,441,420,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00915.jpg 1115,6,1159,487,0 243,0,286,505,0 330,9,354,423,0 281,0,320,425,0 886,6,929,411,0 871,6,902,391,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00998.jpg 182,3,255,614,0 357,9,403,550,0 1151,0,1197,435,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00428.jpg 15,33,66,606,0 110,50,161,573,0 1020,30,1073,560,0 200,28,254,511,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00655.jpg 170,53,213,473,0 790,34,828,430,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00608.jpg 80,20,132,563,0 1064,19,1118,505,0 308,70,353,451,0 852,14,892,398,0 773,30,801,368,0 432,35,462,398,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00730.jpg 1129,14,1175,506,0 1052,17,1108,506,0 272,56,328,523,0 334,13,383,504,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01025.jpg 1051,7,1105,587,0 1006,0,1048,540,0 938,12,982,501,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00354.jpg 216,30,276,539,0 1172,21,1225,591,0 1031,21,1090,518,0 1114,29,1158,522,0 320,12,365,494,0 386,13,430,461,0 897,18,944,423,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00375.jpg 116,25,175,610,0 1190,24,1239,574,0 253,19,296,518,0 1013,37,1061,505,0 953,29,998,481,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00710.jpg 1085,15,1126,514,0 82,26,131,549,0 972,26,1015,495,0 859,24,895,443,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00864.jpg 146,1,193,511,0 1148,3,1201,561,0 1213,4,1263,555,0 238,5,289,461,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00770.jpg 69,19,131,525,0 380,24,426,406,0 135,16,188,523,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00503.jpg 1097,35,1147,570,0 950,33,998,542,0 858,39,899,473,0 64,43,108,550,0 133,31,182,514,0 226,25,266,494,0 299,20,339,434,0 753,12,788,425,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00400.jpg 95,37,147,551,0 963,33,1010,562,0 844,36,888,472,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00781.jpg 278,16,325,449,0 841,17,884,425,0 910,20,949,455,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00352.jpg 79,45,134,615,0 145,39,192,585,0 1116,9,1172,547,0 259,37,319,523,0 986,14,1044,471,0 1059,21,1103,485,0 343,33,388,467,0 879,8,926,413,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00808.jpg 164,0,231,513,0 1081,9,1158,518,0 1004,0,1053,480,0 255,0,303,472,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00389.jpg 1097,22,1155,550,0 1032,16,1081,527,0 38,38,93,594,0 815,18,862,443,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00905.jpg 1083,8,1127,516,0 55,12,107,616,0 165,9,212,523,0 885,0,920,405,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00374.jpg 163,28,205,592,0 1169,17,1218,567,0 272,31,314,505,0 996,34,1044,488,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00760.jpg 1100,18,1169,504,0 987,16,1036,496,0 274,35,308,427,0 830,24,869,412,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01026.jpg 1088,11,1142,611,0 1035,20,1077,561,0 959,18,1003,512,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00339.jpg 76,48,145,588,0 177,36,226,552,0 1085,31,1143,562,0 271,33,312,501,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00933.jpg 111,3,150,534,0 193,4,237,476,0 932,23,966,445,0 345,3,379,402,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00974.jpg 1165,14,1250,720,0 58,10,103,539,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00330.jpg 111,23,157,539,0 224,28,263,484,0 895,27,955,492,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00721.jpg 1205,29,1251,581,0 5,18,100,665,0 165,19,241,561,0 1026,19,1081,477,0 252,25,307,540,0 931,31,974,444,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00317.jpg 11,30,60,590,0 57,32,102,562,0 97,31,142,545,0 171,30,215,495,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00425.jpg 52,48,98,551,0 75,34,119,541,0 1021,29,1078,594,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00527.jpg 981,24,1035,543,0 56,54,109,537,0 886,31,933,463,0 169,44,226,478,0 298,40,338,447,0 352,45,390,428,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00472.jpg 1103,3,1157,528,0 191,0,250,529,0 267,0,315,482,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00919.jpg 148,11,193,594,0 278,1,313,462,0 208,2,247,489,0 956,1,999,439,0 922,2,953,429,0 309,9,345,460,0 353,8,381,430,0 800,10,835,380,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00906.jpg 1118,9,1170,543,0 14,22,66,652,0 132,15,182,561,0 899,1,934,424,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00782.jpg 265,14,313,446,0 844,14,888,422,0 931,16,970,451,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00529.jpg 1033,16,1087,557,0 0,26,51,554,0 911,16,959,465,0 122,29,180,489,0 264,42,304,449,0 338,46,376,429,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00849.jpg 1045,3,1153,599,0 121,0,164,456,0 163,3,199,449,0 755,14,798,468,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00424.jpg 60,36,105,540,0 95,20,139,528,0 983,25,1040,572,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00386.jpg 54,20,104,578,0 1156,22,1210,550,0 995,22,1053,505,0 138,28,193,540,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00401.jpg 62,37,114,551,0 983,31,1038,572,0 856,36,899,472,0 139,34,188,519,0 778,28,839,466,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00355.jpg 207,32,267,557,0 1219,22,1273,610,0 1076,29,1135,538,0 1152,31,1196,547,0 319,28,364,510,0 387,18,431,466,0 909,30,956,445,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00883.jpg 1109,16,1158,516,0 171,0,216,488,0 950,5,995,444,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00625.jpg 946,13,987,398,0 305,19,339,476,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00888.jpg 12,16,80,598,0 1078,5,1124,508,0 1020,0,1070,461,0 170,10,218,559,0 310,2,352,453,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01037.jpg 1129,9,1210,558,0 992,7,1043,529,0 920,12,959,483,0 834,10,872,444,0 746,0,779,429,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00692.jpg 1102,26,1159,532,0 1042,32,1092,516,0 201,31,246,511,0 969,33,1018,503,0 870,30,917,444,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01030.jpg 83,10,126,537,0 1174,15,1227,594,0 1065,16,1109,567,0 820,9,855,449,0 711,11,744,407,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00600.jpg 38,31,99,556,0 1158,30,1218,563,0 993,24,1042,507,0 955,27,1001,495,0 135,27,181,517,0 254,19,306,472,0 893,31,934,454,0 369,39,413,392,0 775,9,815,368,0 733,9,758,348,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00953.jpg 1052,0,1103,536,0 1016,6,1063,521,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00556.jpg 1167,40,1222,629,0 49,13,110,546,0 1064,37,1129,569,0 889,25,942,477,0 1020,32,1076,555,0 957,13,1013,509,0 146,29,204,489,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00992.jpg 397,10,438,495,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01034.jpg 1012,15,1060,524,0 913,11,958,480,0 865,18,904,467,0 799,13,832,433,0 68,16,108,516,0 723,12,756,420,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00402.jpg 35,32,87,568,0 1009,36,1064,588,0 868,32,911,491,0 120,41,169,526,0 164,34,208,514,0 789,31,849,469,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00987.jpg 32,4,79,607,0 334,1,372,438,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01040.jpg 1103,11,1181,592,0 1014,8,1065,552,0 889,11,931,470,0 773,3,809,469,0 92,1,136,506,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00486.jpg 2,29,53,596,0 1147,24,1208,603,0 113,25,165,536,0 1076,31,1133,539,0 941,37,997,495,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00749.jpg 1149,19,1209,585,0 138,31,191,548,0 211,27,263,503,0 1030,23,1077,513,0 780,38,812,427,0 708,35,747,392,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00471.jpg 108,50,165,665,0 1091,46,1145,571,0 243,36,303,568,0 315,36,364,530,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00668.jpg 972,24,1036,521,0 88,17,132,512,0 0,20,44,571,0 843,11,893,484,0 186,12,237,465,0 811,16,850,478,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00345.jpg 29,21,84,627,0 182,40,246,596,0 1163,30,1209,543,0 1131,26,1173,526,0 295,20,341,497,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00618.jpg 98,22,160,558,0 1032,27,1081,499,0 839,31,880,417,0 374,16,408,449,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00622.jpg 1211,19,1270,533,0 904,7,945,393,0 352,16,386,449,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00819.jpg 990,8,1041,451,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00767.jpg 163,9,215,502,0 401,15,446,396,0 216,11,260,493,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00357.jpg 171,34,231,603,0 1136,27,1194,561,0 1220,26,1271,578,0 295,30,340,524,0 370,30,414,478,0 938,24,986,451,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00304.jpg 878,25,945,544,0 994,23,1054,552,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00306.jpg 921,26,988,549,0 1053,26,1113,562,0 45,23,105,534,0 132,18,191,498,0 204,14,248,472,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00910.jpg 0,2,34,588,0 971,5,1012,435,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00878.jpg 973,1,1021,439,0 52,10,105,534,0 284,2,324,451,0 889,0,924,411,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00590.jpg 1085,35,1145,579,0 971,33,1022,523,0 144,27,200,503,0 215,32,264,486,0 257,26,307,446,0 421,17,466,390,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00928.jpg 55,5,97,573,0 1144,8,1191,543,0 126,8,167,546,0 232,15,271,481,0 287,4,326,455,0 874,14,909,428,0 389,10,423,407,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00872.jpg 44,10,94,546,0 1138,1,1194,572,0 1054,3,1100,555,0 858,2,906,427,0 214,5,260,484,0 823,4,851,410,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01018.jpg 148,13,198,542,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01044.jpg 1022,5,1085,528,0 861,15,896,509,0 41,9,86,556,0 817,11,852,465,0 95,11,140,530,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00643.jpg 1149,25,1202,543,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00677.jpg 107,15,158,545,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00896.jpg 1087,0,1133,480,0 1128,0,1175,496,0 1000,2,1045,445,0 144,0,187,529,0 215,0,257,507,0 838,0,869,363,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00867.jpg 55,5,102,548,0 179,7,226,486,0 990,0,1037,501,0 931,5,974,486,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00578.jpg 38,31,93,561,0 1132,31,1190,582,0 893,19,935,461,0 166,20,212,495,0 251,22,296,447,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00536.jpg 1125,53,1189,561,0 898,84,940,473,0 852,31,893,462,0 191,28,231,519,0 288,86,326,469,0 341,42,379,447,0 812,53,850,434,0 394,38,423,429,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00329.jpg 7,32,55,552,0 124,36,170,513,0 1124,44,1209,613,0 229,48,268,474,0 875,27,935,484,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00604.jpg 1130,27,1178,551,0 1067,26,1113,518,0 1,26,55,589,0 177,51,229,505,0 960,23,1005,450,0 334,33,379,415,0 810,14,849,374,0 755,16,779,355,0 445,21,474,384,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00359.jpg 86,27,146,647,0 259,22,303,549,0 1083,23,1139,534,0 350,20,394,487,0 961,27,1009,461,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01011.jpg 1032,0,1077,548,0 45,11,103,618,0 148,7,194,572,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00850.jpg 1104,6,1202,619,0 91,0,133,467,0 130,1,173,458,0 747,1,794,488,0 9,9,50,512,0 905,12,960,616,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00320.jpg 33,27,77,583,0 121,26,165,535,0 174,22,217,504,0 225,26,264,468,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00479.jpg 101,33,160,581,0 202,33,250,513,0 284,32,336,453,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00641.jpg 100,27,151,601,0 1109,18,1156,513,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00562.jpg 1054,15,1116,558,0 1193,17,1249,625,0 143,33,195,534,0 915,22,963,500,0 865,20,904,465,0 193,27,243,491,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00477.jpg 42,31,101,606,0 157,33,216,561,0 245,32,293,497,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00499.jpg 117,27,162,524,0 1036,26,1097,585,0 968,26,1019,514,0 873,27,921,488,0 819,26,855,445,0 181,27,225,510,0 340,29,380,406,0 744,14,778,428,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00698.jpg 1136,22,1199,571,0 183,26,237,543,0 963,31,1010,492,0 308,34,351,474,0 873,41,911,414,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00940.jpg 0,9,42,561,0 1087,6,1134,495,0 1009,3,1051,501,0 827,0,859,425,0 270,10,308,446,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00640.jpg 63,16,125,591,0 187,15,238,574,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01046.jpg 919,9,960,522,0 0,2,40,591,0 856,7,894,439,0 56,0,101,564,0 215,5,252,475,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00876.jpg 926,3,975,436,0 111,5,165,529,0 307,3,347,451,0 866,6,902,417,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00579.jpg 11,44,66,573,0 1170,24,1228,574,0 907,21,963,470,0 156,20,202,496,0 242,18,287,456,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00959.jpg 1042,18,1097,558,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00695.jpg 1202,14,1260,568,0 1107,20,1157,538,0 94,27,143,598,0 1020,20,1069,530,0 238,40,292,522,0 890,20,937,464,0 331,25,370,449,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00642.jpg 39,27,90,611,0 1142,24,1196,541,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00551.jpg 1119,6,1187,628,0 960,14,1015,545,0 4,10,71,566,0 143,10,204,490,0 789,20,840,448,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00569.jpg 1093,30,1149,571,0 987,29,1039,501,0 37,31,88,548,0 939,28,991,470,0 189,20,237,502,0 884,25,933,447,0 805,24,847,403,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00724.jpg 120,20,223,599,0 1146,25,1201,506,0 235,30,294,574,0 1031,25,1075,482,0 974,9,1018,450,0 349,28,405,470,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00566.jpg 1213,25,1280,639,0 41,28,93,579,0 994,33,1050,545,0 926,24,971,494,0 117,23,168,539,0 770,15,811,403,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00342.jpg 0,63,60,670,0 131,38,180,603,0 1158,46,1214,578,0 247,36,287,559,0 320,25,365,501,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene01028.jpg 1164,17,1230,643,0 132,0,175,497,0 1089,10,1142,566,0 1004,16,1048,525,0 700,0,733,390,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00326.jpg 102,33,150,553,0 1067,27,1146,595,0 200,28,246,482,0 950,27,1015,560,0 283,33,316,459,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00982.jpg 1059,12,1119,598,0 154,7,194,541,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00809.jpg 149,0,216,522,0 1127,5,1203,537,0 1037,0,1086,494,0 242,0,298,484,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00466.jpg 193,28,244,573,0 1149,20,1197,511,0 278,45,323,523,0 1087,19,1141,499,0 1003,17,1057,454,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00584.jpg 1031,25,1087,550,0 15,46,66,559,0 143,26,199,478,0 908,25,968,496,0 255,22,311,451,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00650.jpg 274,20,317,440,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00824.jpg 1098,7,1149,495,0 180,1,254,506,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00619.jpg 56,21,118,557,0 1069,8,1128,500,0 854,10,894,395,0 374,5,408,438,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00580.jpg 926,33,982,482,0 139,34,185,510,0 223,22,268,474,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00786.jpg 188,48,236,481,0 889,17,937,436,0 993,7,1050,478,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00885.jpg 1208,0,1261,575,0 121,0,168,523,0 1007,0,1053,494,0 327,7,371,443,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00844.jpg 853,0,926,465,0 1002,0,1051,537,0 195,0,237,431,0 708,4,752,418,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00508.jpg 1121,35,1183,632,0 970,19,1011,530,0 130,23,170,512,0 248,27,287,441,0 803,31,838,456,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00853.jpg 81,1,123,468,0 126,0,169,456,0 774,5,822,483,0 861,5,907,499,0 1086,0,1145,681,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00406.jpg 934,47,986,526,0 49,41,104,562,0 828,39,889,489,0 124,25,172,551,0 191,22,237,496,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00651.jpg 263,19,306,440,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00780.jpg 287,9,334,441,0 823,0,866,407,0 895,9,932,427,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00478.jpg 0,16,49,607,0 127,28,186,557,0 221,29,270,494,0 287,25,339,446,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00405.jpg 1129,35,1184,631,0 909,39,960,510,0 22,47,71,563,0 88,46,132,549,0 818,47,879,484,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00717.jpg 996,28,1032,480,0 1043,31,1084,517,0 101,9,198,552,0 236,22,287,496,0 275,19,330,467,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00777.jpg 329,22,375,404,0 801,2,843,393,0 857,17,893,411,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00712.jpg 1168,32,1219,561,0 1026,27,1070,520,0 895,32,932,471,0 923,24,964,489,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00691.jpg 1078,24,1136,529,0 1020,26,1070,509,0 219,31,264,511,0 952,24,1001,494,0 862,37,910,432,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00755.jpg 34,32,96,571,0 905,9,969,460,0 851,28,888,450,0 286,28,320,420,0 741,24,780,396,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00613.jpg 230,19,275,469,0 924,18,968,419,0 800,0,835,376,0 403,11,437,409,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00555.jpg 1119,26,1174,616,0 85,15,146,549,0 1032,30,1097,558,0 866,21,917,473,0 987,26,1043,549,0 931,25,987,521,0 170,34,228,494,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00465.jpg 229,40,281,563,0 1109,10,1153,501,0 304,31,349,509,0 1059,12,1112,489,0 978,15,1032,452,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00848.jpg 986,0,1105,579,0 137,0,180,448,0 176,3,213,440,0 748,5,791,459,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00946.jpg 1213,9,1261,576,0 894,1,932,447,0 164,7,202,486,0 209,10,253,477,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00353.jpg 105,41,152,639,0 236,26,296,534,0 1024,34,1082,517,0 1100,31,1144,520,0 331,19,376,500,0 394,19,438,467,0 892,33,939,439,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00789.jpg 96,25,158,514,0 941,5,1002,448,0 1096,13,1161,524,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00365.jpg 45,27,126,643,0 238,20,288,550,0 1110,31,1158,519,0 315,24,354,511,0 1053,29,1102,502,0 379,20,417,477,0 992,20,1041,470,0 923,20,964,434,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00923.jpg 27,7,76,651,0 210,26,246,496,0 114,9,160,530,0 1041,7,1084,464,0 986,6,1021,456,0 252,13,293,477,0 304,8,343,452,0 822,5,857,385,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00859.jpg 0,8,44,557,0 94,10,137,513,0 1037,11,1085,596,0 1204,6,1263,608,0 223,0,270,476,0 277,2,319,446,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00455.jpg 388,31,431,458,0 929,30,972,447,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00426.jpg 43,29,94,602,0 127,20,178,544,0 216,19,270,501,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00672.jpg 1127,9,1202,621,0 899,20,959,562,0 100,29,151,500,0 849,20,897,536,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00468.jpg 127,17,179,606,0 1214,44,1263,535,0 232,31,289,552,0 1136,34,1190,523,0 1027,28,1081,473,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00585.jpg 1069,20,1125,559,0 120,20,176,492,0 940,23,1000,495,0 877,19,929,456,0 238,23,294,452,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00635.jpg 115,44,170,634,0 231,18,282,532,0 331,20,381,511,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00338.jpg 95,29,165,568,0 1169,20,1230,578,0 190,26,239,531,0 1011,26,1070,545,0 275,28,316,489,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00308.jpg 981,37,1048,574,0 1162,27,1229,590,0 0,22,59,545,0 92,21,150,515,0 179,26,222,492,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00851.jpg 96,0,138,456,0 135,0,178,440,0 790,0,837,485,0 1,0,43,495,0 954,9,1013,623,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00615.jpg 195,32,240,502,0 958,25,1002,446,0 815,14,850,390,0 395,25,429,423,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00481.jpg 31,37,90,607,0 160,36,211,536,0 245,39,297,466,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00909.jpg 22,14,71,600,0 946,11,981,424,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00911.jpg 999,6,1040,450,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00718.jpg 1027,26,1069,512,0 1078,29,1128,545,0 56,10,153,594,0 208,16,259,519,0 899,13,952,428,0 253,20,308,489,0
+/home/ubuntu/YOLOv3/OIDv4_ToolKit/Dataset/train/Plant/scene00337.jpg 110,14,179,554,0 1131,25,1191,564,0 198,26,248,517,0 987,30,1046,536,0 282,25,323,479,0
