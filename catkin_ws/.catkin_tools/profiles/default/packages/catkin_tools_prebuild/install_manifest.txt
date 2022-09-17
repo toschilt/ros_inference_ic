@@ -1,0 +1,13 @@
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/_setup_util.py
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/env.sh
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/setup.bash
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/local_setup.bash
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/setup.sh
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/local_setup.sh
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/setup.zsh
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/local_setup.zsh
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/.rosinstall
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/lib/pkgconfig/catkin_tools_prebuild.pc
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+/home/ltoschi/Documents/LabRoM/ros_inference_ic/catkin_ws/install/share/catkin_tools_prebuild/package.xml

@@ -8,8 +8,8 @@ from keras import backend as K
 from keras.models import load_model
 from keras.layers import Input
 
-from yolo3.model import yolo_eval, yolo_body, tiny_yolo_body
-from yolo3.utils import image_preporcess
+from inference_submodule.yolo3.model import yolo_eval, yolo_body, tiny_yolo_body
+from inference_submodule.yolo3.utils import image_preporcess
 
 class YOLO(object):
     _defaults = {
