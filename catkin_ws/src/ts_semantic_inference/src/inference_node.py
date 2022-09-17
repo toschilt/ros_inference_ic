@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 
 import rospy
-from ts_semantic_inference import image_detect
+from inference_submodule import image_detect
+from ts_semantic_inference.srv import SemanticInference, SemanticInferenceResponse
 
 def handle_semantic_inference(req):
-    print("Do the thing")
+    image_detect() 
 
 if __name__ == '__main__':
     rospy.init_node('inference_node')

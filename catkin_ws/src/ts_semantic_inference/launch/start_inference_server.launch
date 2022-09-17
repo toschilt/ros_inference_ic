@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="ts_semantic_inference" type="inference_node.py" name="inference_node" />
+</launch>

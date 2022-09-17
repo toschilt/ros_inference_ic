@@ -157,7 +157,7 @@ class YOLO(object):
         return r_image, ObjectsList
 
     
-if __name__=="__main__":
+def image_detect():
     yolo = YOLO()
     image = 'scene00555.jpg'
     r_image, ObjectsList = yolo.detect_img(image)
