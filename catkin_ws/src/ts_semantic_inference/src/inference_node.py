@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import rospy
+from ts_semantic_inference import image_detect
 
 def handle_semantic_inference(req):
     print("Do the thing")

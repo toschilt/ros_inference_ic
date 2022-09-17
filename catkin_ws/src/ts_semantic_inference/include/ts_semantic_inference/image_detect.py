@@ -1,8 +1,7 @@
 import colorsys
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 import cv2
-
 
 import numpy as np
 from keras import backend as K
@@ -17,7 +16,7 @@ class YOLO(object):
         "model_path": 'trained_weights_stage_1.h5',
         "anchors_path": 'model_data/yolo_anchors.txt',
         "classes_path": '1_CLASS_test_classes.txt',
-        "score" : 0.3,
+        "score" : 0.001,
         "iou" : 0.45,
         "model_image_size" : (1280, 736),
         "text_size" : 3,
