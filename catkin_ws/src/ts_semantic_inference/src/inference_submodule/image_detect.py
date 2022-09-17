@@ -157,12 +157,12 @@ class YOLO(object):
         return r_image, ObjectsList
 
     
-def image_detect():
+def image_detect(image_input):
     yolo = YOLO()
-    image = 'scene00555.jpg'
-    r_image, ObjectsList = yolo.detect_img(image)
-    print(ObjectsList)
-    cv2.imshow(image, r_image)
-    if cv2.waitKey() & 0xFF == ord("q"):
-        cv2.destroyAllWindows()
+    r_image, ObjectsList = yolo.detect_img(image_input)
+    #print(ObjectsList)
+    #cv2.imshow(image, r_image)
+    #if cv2.waitKey() & 0xFF == ord("q"):
+    #    cv2.destroyAllWindows()
     yolo.close_session()
+    return r_image
