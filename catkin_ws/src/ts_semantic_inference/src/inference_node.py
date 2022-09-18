@@ -6,15 +6,15 @@ from ts_semantic_inference.srv import SemanticInference, SemanticInferenceRespon
 from cv_bridge import CvBridge
 
 def handle_semantic_inference(req):
-    req_image = req.image
+    req_image = req.input
 
     bridge = CvBridge()
     cv_image = bridge.imgmsg_to_cv2(req_image, desired_encoding='passthrough') 
     
-    result_image = image_detect(cv_image) 
+    result_image = image_detect.image_detect(cv_image) 
 
     response = SemanticInferenceResponse()
-    response.image = bridge.cv2_to_imgmsg(result_image, encoding="passthrough")
+    response.output = bridge.cv2_to_imgmsg(result_image, encoding="passthrough")
     return response
 
 if __name__ == '__main__':
