@@ -29,7 +29,6 @@ if __name__ == '__main__':
     image = cv2.imread(image_file)
     result_image = semantic_inference_client(image)
 
-    cv2.imshow(result_image)
-    if cv2.waitKey(25) == ord("q"):
+    cv2.imshow('', result_image)
+    if cv2.waitKey(0) & 0xFF == ord('q'):
         cv2.destroyAllWindows()
-    rospy.spin()

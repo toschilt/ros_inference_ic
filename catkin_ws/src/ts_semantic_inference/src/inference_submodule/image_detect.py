@@ -11,11 +11,17 @@ from keras.layers import Input
 from inference_submodule.yolo3.model import yolo_eval, yolo_body, tiny_yolo_body
 from inference_submodule.yolo3.utils import image_preporcess
 
+import rospkg
+rospack = rospkg.RosPack()
+package_path = rospack.get_path('ts_semantic_inference')
+submodule_path = package_path + '/src/inference_submodule'
+model_data_path = submodule_path + '/model_data'
+models_path = submodule_path + '/models'
 class YOLO(object):
     _defaults = {
-        "model_path": 'trained_weights_stage_1.h5',
-        "anchors_path": 'model_data/yolo_anchors.txt',
-        "classes_path": '1_CLASS_test_classes.txt',
+        "model_path": models_path + '/trained_weights_stage_1.h5',
+        "anchors_path": model_data_path + '/yolo_anchors.txt',
+        "classes_path": model_data_path + '/1_CLASS_test_classes.txt',
         "score" : 0.001,
         "iou" : 0.45,
         "model_image_size" : (1280, 736),
@@ -149,20 +155,17 @@ class YOLO(object):
         self.sess.close()
 
     def detect_img(self, image):
-        image = cv2.imread(image, cv2.IMREAD_COLOR)
+        #image = cv2.imread(image, cv2.IMREAD_COLOR)
         original_image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         original_image_color = cv2.cvtColor(original_image, cv2.COLOR_BGR2RGB)
         
         r_image, ObjectsList = self.detect_image(original_image_color)
         return r_image, ObjectsList
 
-    
 def image_detect(image_input):
+    K.clear_session()
     yolo = YOLO()
     r_image, ObjectsList = yolo.detect_img(image_input)
-    #print(ObjectsList)
-    #cv2.imshow(image, r_image)
-    #if cv2.waitKey() & 0xFF == ord("q"):
-    #    cv2.destroyAllWindows()
-    yolo.close_session()
+    K.clear_session()
+    #yolo.close_session()
     return r_image

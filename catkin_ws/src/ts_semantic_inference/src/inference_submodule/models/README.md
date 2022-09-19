@@ -1,0 +1,1 @@
+Insert in this folders the .h5 files that you want to use to do inference. This file is here to force git to commit the /models folder.
