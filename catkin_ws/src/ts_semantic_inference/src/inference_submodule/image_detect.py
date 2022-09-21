@@ -19,7 +19,7 @@ model_data_path = submodule_path + '/model_data'
 models_path = submodule_path + '/models'
 class YOLO(object):
     _defaults = {
-        "model_path": models_path + '/trained_weights_stage_1.h5',
+        "model_path": models_path + '/ts_yolov3_model.h5',
         "anchors_path": model_data_path + '/yolo_anchors.txt',
         "classes_path": model_data_path + '/1_CLASS_test_classes.txt',
         "score" : 0.001,
